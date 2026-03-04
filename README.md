@@ -128,7 +128,7 @@ Other         0 secs                ░░░░░░░░░░░░░░�
 
 ---
 
-## 📍 Location
+### 📍 Location
 
 <!-- Cracow Geographic Area -->
 
