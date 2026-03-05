@@ -70,23 +70,23 @@ In an era where AI writes code, it’s important to think not only about how it 
 ## 📈 Github Stats & Activity Graph
 <div align="center">
   
-![snake gif](https://github.com/fr297/fr297/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/alexfrxx/alexfrxx/blob/output/github-snake-dark.svg)
 </div>
 
 <div align="center">
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fr297&theme=highcontrast&cache_bust=2026-02-25"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexfrxx&theme=highcontrast&cache_bust=2026-02-25"
   width="275"
 />
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fr297&theme=highcontrast"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexfrxx&theme=highcontrast"
   width="565"
 />
 </div>
 
 <div align="center">
-<a href="https://github.com/fr297/github-readme-activity-graph#highcontrast">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fr297&bg_color=00000f&color=ffffff&line=FF0077&point=00ffff&area=true&area_color=053300&hide_border=true" width="100%">
+<a href="https://github.com/alexfrxx/github-readme-activity-graph#highcontrast">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexfrxx&bg_color=00000f&color=ffffff&line=FF0077&point=00ffff&area=true&area_color=053300&hide_border=true" width="100%">
 </a>
   
 ![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
