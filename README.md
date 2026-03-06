@@ -75,7 +75,7 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexfrxx&theme=radical" width="67%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexfrxx&theme=radical" width="31%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexfrxx&theme=radical" width="32%" />
 </div>
 
 <div align="center">
