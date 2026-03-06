@@ -74,12 +74,10 @@ In an era where AI writes code, it’s important to think not only about how it 
 </div>
 
 <div align="center">
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexfrxx&theme=highcontrast&cache_bust=2026-02-25"
-  width="275"
-/>
-  
-![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexfrxx&theme=merko)
+  <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexfrxx&theme=radical" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexfrxx&theme=radical" height="180"/>
+</p>
 </div>
 
 <div align="center">
