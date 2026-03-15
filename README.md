@@ -77,9 +77,9 @@ In an era where AI writes code, it’s important to think not only about how it 
 ## Certificates
 
 <div align="center">
-  <img src="./images/Certificate1.jpg" width="32%">
-  <img src="./images/Certificate2.jpg" width="32%">
-  <img src="./images/Certificate1.jpg" width="32%">
+  <img src="./images/Certificate1.jpg" width="32%" alt="Course certificate Full-Css">
+  <img src="./images/Certificate2.jpg" width="32%" alt="Course certificate Git & Github">
+  <img src="./images/Certificate1.jpg" width="32%" alt="Course certificate ...">
 </div>
 
 ---
