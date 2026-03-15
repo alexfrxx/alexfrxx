@@ -2,8 +2,9 @@
 
 </a>
 
-# 🤝 Hey there! I'm Alex  
-### 💻 Frontend Developer | UI & UX Enthusiast 
+# 🤝 Hey there! I'm Alex
+
+### 💻 Frontend Developer | UI & UX Enthusiast
 
 From an early age, I’ve been passionate about creating beautiful and functional websites. I started with marketing and landing pages on Tilda and Taplink, which helped me understand the value of design and user experience.
 
@@ -13,7 +14,8 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ---
 
-## 📮 Contact & Social  
+## 📮 Contact & Social
+
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/AleksandrFrolov2809/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Aleksandr Frolov"></a>
@@ -29,7 +31,7 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ## 💻 Technology Stack
 
-### Languages  
+### Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -77,14 +79,15 @@ In an era where AI writes code, it’s important to think not only about how it 
 ## Certificates
 
 <div align="center">
-  <img src="./images/Certificate1.jpg" width="32%" alt="Course certificate Full-Css">
-  <img src="./images/Certificate2.jpg" width="32%" alt="Course certificate Git & Github">
-  <img src="./images/Certificate1.jpg" width="32%" alt="Course certificate ...">
+  <img src="./images/Certificate1.png" width="32%" alt="Course certificate Full-Css">
+  <img src="./images/Certificate2.png" width="32%" alt="Course certificate Git & Github">
+  <img src="./images/Certificate1.png" width="32%" alt="Course certificate ...">
 </div>
 
 ---
 
 ## 📈 Github Stats & Activity Graph
+
 <div align="center">
   
 ![snake gif](https://github.com/alexfrxx/alexfrxx/blob/output/github-snake-dark.svg)
@@ -166,8 +169,14 @@ Other         0 secs                ░░░░░░░░░░░░░░�
         "type": "Polygon",
         "coordinates": [
           [
-            [19.7922, 49.9679],
-            [20.2170, 50.1260]
+            [
+              19.7922,
+              49.9679
+            ],
+            [
+              20.217,
+              50.126
+            ]
           ]
         ]
       }
@@ -175,5 +184,7 @@ Other         0 secs                ░░░░░░░░░░░░░░�
   ]
 }
 ```
+
 ---
+
 <p align="center"><em>Thank you for visiting my profile — the projects are listed below🔻</em></p>
