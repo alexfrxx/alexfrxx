@@ -18,8 +18,8 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 </p>
 <p align="center">
+   <a href="https://instagram.com/alexfrxx"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/AleksandrFrolov2809/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Aleksandr Frolov"></a>
-<a href="https://www.instagram.com/alexfrxx?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><img src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: @alexFrxx"></a>
 <a href="mailto:fr.280907@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: fr.280907@gmail.com"/></a>
 <a href="https://x.com/AleksandrFr2007"><img src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter): @AleksandrFr2007"></a>
 <a href="https://t.me/alexFrxx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: @alexFrxx"></a>
@@ -76,16 +76,6 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ---
 
-## 🎓 Certificates
-
-<div align="center">
-  <img src="./images/Certificate3.png" width="32%" alt="Course certificate Node.js Package Manager">
-  <img src="./images/Certificate2.png" width="32%" alt="Course certificate Git & Github">
-  <img src="./images/Certificate1.png" width="32%" alt="Course certificate Full-Css">
-</div>
-
----
-
 ## 📈 Github Stats & Activity Graph
 
 <div align="center">
@@ -114,23 +104,33 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ---
 
+## 🎓 Certificates
+
+<div align="center">
+  <img src="./images/Certificate3.png" width="32%" alt="Course certificate Node.js Package Manager">
+  <img src="./images/Certificate2.png" width="32%" alt="Course certificate Git & Github">
+  <img src="./images/Certificate1.png" width="32%" alt="Course certificate Full-Css">
+</div>
+
+---
+
 ### ⏳ Time Invested in Coding
 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 58 hrs 8 mins
+Total Time: 63 hrs 26 mins
 
-SCSS          20 hrs 10 mins        ████████▓░░░░░░░░░░░░░░░░   34.71 %
-HTML          14 hrs 23 mins        ██████▒░░░░░░░░░░░░░░░░░░   24.76 %
-CSS           9 hrs 34 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
-JavaScript    7 hrs 21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
-TypeScript    2 hrs 49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-Less          2 hrs 10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-Image (svg)   1 hr 8 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-JSON          27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-Markdown      2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-YAML          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+SCSS          21 hrs 27 mins        ████████▒░░░░░░░░░░░░░░░░   33.78 %
+HTML          14 hrs 33 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
+CSS           9 hrs 35 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
+JavaScript    8 hrs                 ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
+TypeScript    4 hrs 44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+Less          2 hrs 10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+JSON          1 hr 27 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Image (svg)   1 hr 8 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Markdown      9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+YAML          8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
