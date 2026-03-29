@@ -78,49 +78,6 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ---
 
-## 📈 Github Stats & Activity Graph
-
-<div align="center">
-  
-![snake gif](https://github.com/alexfrxx/alexfrxx/blob/output/github-snake-dark.svg)
-</div>
-
-<div align="center">
- <img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexfrxx&show_icons=true&bg_color=000000&title_color=FFE600&icon_color=DBB7FF&text_color=ffffff&border_color=000000" width="59%"
- />
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexfrxx&theme=highcontrast"
-    width="40%"
-  />
-</div>
-
-<div align="center">
-<a href="https://github.com/alexfrxx/github-readme-activity-graph#highcontrast">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexfrxx&bg_color=00000f&color=ffffff&line=FF0077&point=00ffff&area=true&area_color=053300&hide_border=true" width="100%">
-</a>
-  
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
-</div>
-
----
-
-## 🎓 Certificates
-
-<div align="center">
-<a href="https://www.udemy.com/certificate/UC-b9a4b2b1-9e7a-455a-a183-95275dcb6a1c/" target="_blank">
-  <img src="./images/Certificate3.png" width="32%" alt="Course certificate Node.js Package Manager">
-</a>
-<a href="https://www.udemy.com/certificate/UC-5415c020-00e3-4782-8f4b-57173769dca3/" target="_blank">
-  <img src="./images/Certificate2.png" width="32%" alt="Course certificate Git & Github">
-</a>
-<a href="https://www.udemy.com/certificate/UC-75a9edea-62df-4766-8960-856c31d6d74d/" target="_blank">
-  <img src="./images/Certificate1.png" width="32%" alt="Course certificate Full-Css">
-</a>
-</div>
-
----
-
 ### ⏳ Time Invested in Coding
 
 <!--START_SECTION:waka-->
@@ -141,6 +98,49 @@ YAML          8 mins                ░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+---
+
+## 📈 Github Stats & Activity Graph
+
+<div align="center">
+ <img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexfrxx&show_icons=true&bg_color=000000&title_color=FFE600&icon_color=DBB7FF&text_color=ffffff&border_color=000000" width="59%"
+ />
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexfrxx&theme=highcontrast"
+    width="40%"
+  />
+</div>
+
+<div align="center">
+<a href="https://github.com/alexfrxx/github-readme-activity-graph#highcontrast">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexfrxx&bg_color=00000f&color=ffffff&line=FF0077&point=00ffff&area=true&area_color=053300&hide_border=true" width="100%">
+</a>
+  
+![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+</div>
+
+<div align="center">
+  
+![snake gif](https://github.com/alexfrxx/alexfrxx/blob/output/github-snake-dark.svg)
+</div>
+
+---
+
+## 🎓 Certificates
+
+<div align="center">
+<a href="https://www.udemy.com/certificate/UC-b9a4b2b1-9e7a-455a-a183-95275dcb6a1c/" target="_blank">
+  <img src="./images/Certificate3.png" width="32%" alt="Course certificate Node.js Package Manager">
+</a>
+<a href="https://www.udemy.com/certificate/UC-5415c020-00e3-4782-8f4b-57173769dca3/" target="_blank">
+  <img src="./images/Certificate2.png" width="32%" alt="Course certificate Git & Github">
+</a>
+<a href="https://www.udemy.com/certificate/UC-75a9edea-62df-4766-8960-856c31d6d74d/" target="_blank">
+  <img src="./images/Certificate1.png" width="32%" alt="Course certificate Full-Css">
+</a>
+</div>
 
 ---
 
