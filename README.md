@@ -78,6 +78,22 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ---
 
+## 🎓 Certificates
+
+<div align="center">
+<a href="https://www.udemy.com/certificate/UC-b9a4b2b1-9e7a-455a-a183-95275dcb6a1c/" target="_blank">
+  <img src="./images/Certificate3.png" width="32%" alt="Course certificate Node.js Package Manager">
+</a>
+<a href="https://www.udemy.com/certificate/UC-5415c020-00e3-4782-8f4b-57173769dca3/" target="_blank">
+  <img src="./images/Certificate2.png" width="32%" alt="Course certificate Git & Github">
+</a>
+<a href="https://www.udemy.com/certificate/UC-75a9edea-62df-4766-8960-856c31d6d74d/" target="_blank">
+  <img src="./images/Certificate1.png" width="32%" alt="Course certificate Full-Css">
+</a>
+</div>
+
+---
+
 ### ⏳ Time Invested in Coding
 
 <!--START_SECTION:waka-->
@@ -124,22 +140,6 @@ YAML          8 mins                ░░░░░░░░░░░░░░�
 <div align="center">
   
 ![snake gif](https://github.com/alexfrxx/alexfrxx/blob/output/github-snake-dark.svg)
-</div>
-
----
-
-## 🎓 Certificates
-
-<div align="center">
-<a href="https://www.udemy.com/certificate/UC-b9a4b2b1-9e7a-455a-a183-95275dcb6a1c/" target="_blank">
-  <img src="./images/Certificate3.png" width="32%" alt="Course certificate Node.js Package Manager">
-</a>
-<a href="https://www.udemy.com/certificate/UC-5415c020-00e3-4782-8f4b-57173769dca3/" target="_blank">
-  <img src="./images/Certificate2.png" width="32%" alt="Course certificate Git & Github">
-</a>
-<a href="https://www.udemy.com/certificate/UC-75a9edea-62df-4766-8960-856c31d6d74d/" target="_blank">
-  <img src="./images/Certificate1.png" width="32%" alt="Course certificate Full-Css">
-</a>
 </div>
 
 ---
