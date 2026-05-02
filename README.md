@@ -59,6 +59,7 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ### Cloud & DevOps
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-8B0000?style=for-the-badge&logo=githubpages&logoColor=white)
 
 ### AI & Neural Networks
 
