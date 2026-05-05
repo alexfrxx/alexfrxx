@@ -102,18 +102,18 @@ In an era where AI writes code, it’s important to think not only about how it 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 102 hrs 39 mins
+Total Time: 106 hrs 26 mins
 
-SCSS          27 hrs 37 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
-HTML          26 hrs 46 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.06 %
-CSS           20 hrs 11 mins        █████░░░░░░░░░░░░░░░░░░░░   19.65 %
-JavaScript    16 hrs 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
-TypeScript    4 hrs 44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-Less          2 hrs 10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-JSON          1 hr 48 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-Image (svg)   1 hr 27 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Markdown      50 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-YAML          8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+HTML          28 hrs 38 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
+SCSS          27 hrs 37 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.93 %
+CSS           21 hrs 28 mins        █████░░░░░░░░░░░░░░░░░░░░   20.17 %
+JavaScript    16 hrs 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
+TypeScript    4 hrs 44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+Less          2 hrs 10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Image (svg)   1 hr 59 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+JSON          1 hr 48 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Markdown      50 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+YAML          8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
