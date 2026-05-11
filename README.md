@@ -46,6 +46,7 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ### Build Tools & Package Managers
 
+![Parcel](https://img.shields.io/badge/Parcel-21374B?style=for-the-badge&logo=parcel&logoColor=#D0A99B)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Gulp](https://img.shields.io/badge/-Gulp-333?style=for-the-badge&logo=Gulp)
