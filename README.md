@@ -106,15 +106,18 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ## 🎓 Certificates
 
-<div align="center">
+<div align="left">
+<a href="https://www.udemy.com/certificate/UC-cd7871ff-3ead-4538-8275-1b282dc1ffdb/" target="_blank">
+  <img src="./images/cert4.png" width="32%" alt="Course certificate Node.js Package Manager">
+</a>
 <a href="https://www.udemy.com/certificate/UC-b9a4b2b1-9e7a-455a-a183-95275dcb6a1c/" target="_blank">
-  <img src="./images/Certificate3.png" width="32%" alt="Course certificate Node.js Package Manager">
+  <img src="./images/cert3.png" width="32%" alt="Course certificate Node.js Package Manager">
 </a>
 <a href="https://www.udemy.com/certificate/UC-5415c020-00e3-4782-8f4b-57173769dca3/" target="_blank">
-  <img src="./images/Certificate2.png" width="32%" alt="Course certificate Git & Github">
+  <img src="./images/cert2.png" width="32%" alt="Course certificate Git & Github">
 </a>
 <a href="https://www.udemy.com/certificate/UC-75a9edea-62df-4766-8960-856c31d6d74d/" target="_blank">
-  <img src="./images/Certificate1.png" width="32%" alt="Course certificate Full-Css">
+  <img src="./images/cert1.png" width="32%" alt="Course certificate Full-Css">
 </a>
 </div>
 
