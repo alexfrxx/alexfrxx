@@ -143,7 +143,7 @@ INI           11 mins               ░░░░░░░░░░░░░░�
 ![snake gif](https://github.com/alexfrxx/alexfrxx/blob/output/github-snake-dark.svg)
 </div>
 
-### 📁 Project Structure
+## 📁 Project Structure
 
 ```
 .
@@ -154,7 +154,7 @@ INI           11 mins               ░░░░░░░░░░░░░░�
 └── README.md            # This file
 ```
 
-### 📍 Location
+## 📍 Location
 
 <!-- Cracow Geographic Area -->
 
