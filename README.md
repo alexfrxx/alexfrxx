@@ -84,7 +84,7 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ## 🎓 Certificates
 
-<div align="left">
+<div align="center">
 <a href="https://www.udemy.com/certificate/UC-cd7871ff-3ead-4538-8275-1b282dc1ffdb/" target="_blank">
   <img src="./images/cert4.png" width="24%" alt="Course certificate Node.js Package Manager">
 </a>
