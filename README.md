@@ -26,8 +26,6 @@ In an era where AI writes code, it’s important to think not only about how it 
 </p>
 <p align="center"><em>Let’s build something meaningful together.</em></p>
 
----
-
 ## 💻 Technology Stack
 
 ### Languages
@@ -99,9 +97,7 @@ In an era where AI writes code, it’s important to think not only about how it 
 </a>
 </div>
 
----
-
-### ⏳ Time Invested in Coding
+## ⏳ Time Invested in Coding
 
 <!--START_SECTION:waka-->
 
@@ -121,8 +117,6 @@ INI           11 mins               ░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
----
 
 ## 📈 Github Stats & Activity Graph
 
@@ -198,7 +192,5 @@ INI           11 mins               ░░░░░░░░░░░░░░�
   ]
 }
 ```
-
----
 
 <p align="center"><em>Thank you for visiting my profile — the projects are listed below🔻</em></p>
