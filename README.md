@@ -143,8 +143,6 @@ INI           11 mins               ░░░░░░░░░░░░░░�
 ![snake gif](https://github.com/alexfrxx/alexfrxx/blob/output/github-snake-dark.svg)
 </div>
 
----
-
 ### 📁 Project Structure
 
 ```
@@ -155,8 +153,6 @@ INI           11 mins               ░░░░░░░░░░░░░░�
 ├── package.json         # Project metadata & dependencies
 └── README.md            # This file
 ```
-
----
 
 ### 📍 Location
 
