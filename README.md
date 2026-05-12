@@ -16,14 +16,13 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ## 📮 Contact & Social
 
-</p>
 <p align="center">
    <a href="https://instagram.com/alexfrxx"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/AleksandrFrolov2809/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Aleksandr Frolov"></a>
 <a href="mailto:fr.280907@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: fr.280907@gmail.com"/></a>
 <a href="https://x.com/AleksandrFr2007"><img src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter): @AleksandrFr2007"></a>
 <a href="https://t.me/alexFrxx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: @alexFrxx"></a>
-  <a href="https://alexfrxx.github.io/MyCV/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Website: https://alexfrxx.github.io/MyCV/"></a>
+  <a href="https://alexfrxx.vercel.app"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Website: https://alexfrxx.github.io/MyCV/"></a>
 </p>
 <p align="center"><em>Let’s build something meaningful together.</em></p>
 
@@ -47,6 +46,7 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ### Build Tools & Package Managers
 
+![Parcel](https://img.shields.io/badge/Parcel-21374B?style=for-the-badge&logo=parcel&logoColor=#D0A99B)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Gulp](https://img.shields.io/badge/-Gulp-333?style=for-the-badge&logo=Gulp)
@@ -58,10 +58,15 @@ In an era where AI writes code, it’s important to think not only about how it 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+### Cloud & DevOps
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-8B0000?style=for-the-badge&logo=githubpages&logoColor=white)
+
 ### AI & Neural Networks
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-FFFFFF?style=for-the-badge&logo=openai&logoColor=000000)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-0B3D2E?style=for-the-badge&logo=x&logoColor=white)
 
 ### CMS & Web Builders
@@ -73,34 +78,7 @@ In an era where AI writes code, it’s important to think not only about how it 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-
----
-
-## 📈 Github Stats & Activity Graph
-
-<div align="center">
-  
-![snake gif](https://github.com/alexfrxx/alexfrxx/blob/output/github-snake-dark.svg)
-</div>
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=alexfrxx&show_icons=true&bg_color=000000&border_color=000000&title_color=FFE600&icon_color=DBB7FF&text_color=ffffff"
-    width="57%"
-  />
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexfrxx&theme=highcontrast"
-    width="41%"
-  />
-</div>
-
-<div align="center">
-<a href="https://github.com/alexfrxx/github-readme-activity-graph#highcontrast">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexfrxx&bg_color=00000f&color=ffffff&line=FF0077&point=00ffff&area=true&area_color=053300&hide_border=true" width="100%">
-</a>
-  
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
-</div>
+![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
 ---
 
@@ -128,21 +106,48 @@ In an era where AI writes code, it’s important to think not only about how it 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 63 hrs 26 mins
+Total Time: 120 hrs 26 mins
 
-SCSS          21 hrs 27 mins        ████████▒░░░░░░░░░░░░░░░░   33.78 %
-HTML          14 hrs 33 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
-CSS           9 hrs 35 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
-JavaScript    8 hrs                 ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
-TypeScript    4 hrs 44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-Less          2 hrs 10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-JSON          1 hr 27 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-Image (svg)   1 hr 8 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Markdown      9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-YAML          8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+HTML          33 hrs 19 mins        ███████░░░░░░░░░░░░░░░░░░   27.65 %
+CSS           29 hrs 38 mins        ██████░░░░░░░░░░░░░░░░░░░   24.60 %
+SCSS          27 hrs 37 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
+JavaScript    17 hrs 14 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
+TypeScript    4 hrs 44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+JSON          2 hrs 12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Less          2 hrs 10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Image (svg)   2 hrs 4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Markdown      50 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+INI           11 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
+
+---
+
+## 📈 Github Stats & Activity Graph
+
+<div align="center">
+ <img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexfrxx&show_icons=true&bg_color=000000&title_color=FFE600&icon_color=FF0077&text_color=ffffff&hide_border=true" width="58%"
+ />
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexfrxx&theme=highcontrast"
+    width="39%"
+  />
+</div>
+
+<div align="center">
+<a href="https://github.com/alexfrxx/github-readme-activity-graph#highcontrast">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexfrxx&bg_color=00000f&color=ffffff&line=FF0077&point=00ffff&area=true&area_color=053300&hide_border=true" width="100%">
+</a>
+  
+![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+</div>
+
+<div align="center">
+  
+![snake gif](https://github.com/alexfrxx/alexfrxx/blob/output/github-snake-dark.svg)
+</div>
 
 ---
 
