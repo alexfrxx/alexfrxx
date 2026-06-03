@@ -2,7 +2,7 @@
 
 </a>
 
-# 🤝 Hey there! I'm Alex
+# Hey there! I'm Alex
 
 ### 💻 Frontend Developer | UI & UX Enthusiast
 
