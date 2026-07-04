@@ -21,6 +21,7 @@ codebases, identify areas for improvement, and implement effective solutions.
 
 In an era where AI writes code, it’s important to think not only about how it works, but also about how people
 use it. I pay special attention to usability, simplicity, and user experience.
+
 ---
 
 ## 📮 Contact & Social
