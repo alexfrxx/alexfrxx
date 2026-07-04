@@ -7,12 +7,20 @@
 
 ### 💻 Frontend Developer | UI & UX Enthusiast
 
-From an early age, I’ve been passionate about creating beautiful and functional websites. I started with marketing and landing pages on Tilda and Taplink, which helped me understand the value of design and user experience.
+Frontend Developer with commercial experience developing modern web applications using React.
+Experienced in working within agile teams and collaborating closely with designers and product managers.
 
-At 16, I began studying frontend development, and since then I’ve been fully focused on web development. I’m constantly learning new things, improving my skills, and enjoying the process of building high-quality interfaces.
+Contributed to the development of new features, bug fixing, maintenance, and optimization of existing
+applications. Focused on writing clean, maintainable code, improving user experience, and continuously
+developing professional skills in software development.
 
-In an era where AI writes code, it’s important to think not only about how it works, but also about how people use it. I pay special attention to usability, simplicity, and user experience.
+Confident in building responsive and scalable user interfaces, applying component-based architecture, and
+integrating frontend solutions with backend APIs. Experienced in using modern development tools and workflows,
+including Git, task management systems, and code review processes. Able to quickly understand existing
+codebases, identify areas for improvement, and implement effective solutions.
 
+In an era where AI writes code, it’s important to think not only about how it works, but also about how people
+use it. I pay special attention to usability, simplicity, and user experience.
 ---
 
 ## 📮 Contact & Social
