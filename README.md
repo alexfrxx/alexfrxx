@@ -114,17 +114,17 @@ use it. I pay special attention to usability, simplicity, and user experience.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 157 hrs 14 mins
+Total Time: 159 hrs 34 mins
 
-JavaScript    39 hrs 32 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.14 %
-HTML          36 hrs 31 mins        █████▓░░░░░░░░░░░░░░░░░░░   23.21 %
-SCSS          33 hrs 40 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.41 %
-CSS           31 hrs 56 mins        █████░░░░░░░░░░░░░░░░░░░░   20.31 %
-TypeScript    6 hrs 3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-JSON          3 hrs 22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Less          2 hrs 10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-Image (svg)   2 hrs 4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Markdown      1 hr 10 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+JavaScript    39 hrs 36 mins        ██████▒░░░░░░░░░░░░░░░░░░   24.80 %
+HTML          36 hrs 31 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.87 %
+SCSS          34 hrs 49 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.81 %
+CSS           31 hrs 56 mins        █████░░░░░░░░░░░░░░░░░░░░   20.01 %
+TypeScript    7 hrs 11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+JSON          3 hrs 22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Less          2 hrs 10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Image (svg)   2 hrs 4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Markdown      1 hr 10 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 INI           11 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
