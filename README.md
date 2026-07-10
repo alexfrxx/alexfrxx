@@ -89,23 +89,6 @@ In an era where AI writes code, it's important to think not only about how softw
 
 ---
 
-## 🎓 Certificates
-
-<div align="center">
-<a href="https://www.udemy.com/certificate/UC-cd7871ff-3ead-4538-8275-1b282dc1ffdb/" target="_blank">
-  <img src="./images/cert4.png" width="24%" alt="Course certificate Node.js Package Manager">
-</a>
-<a href="https://www.udemy.com/certificate/UC-b9a4b2b1-9e7a-455a-a183-95275dcb6a1c/" target="_blank">
-  <img src="./images/cert3.png" width="24%" alt="Course certificate Node.js Package Manager">
-</a>
-<a href="https://www.udemy.com/certificate/UC-5415c020-00e3-4782-8f4b-57173769dca3/" target="_blank">
-  <img src="./images/cert2.png" width="24%" alt="Course certificate Git & Github">
-</a>
-<a href="https://www.udemy.com/certificate/UC-75a9edea-62df-4766-8960-856c31d6d74d/" target="_blank">
-  <img src="./images/cert1.png" width="24%" alt="Course certificate Full-Css">
-</a>
-</div>
-
 ## ⏳ Time Invested in Coding
 
 <!--START_SECTION:waka-->
@@ -161,41 +144,6 @@ INI           11 mins               ░░░░░░░░░░░░░░�
 ├── profile-3d-contrib/  # 3D contribution visualizations
 ├── package.json         # Project metadata & dependencies
 └── README.md            # This file
-```
-
-## 📍 Location
-
-<!-- Cracow Geographic Area -->
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0,
-        "name": "Kraków Metropolitan Area"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              19.7922,
-              49.9679
-            ],
-            [
-              20.217,
-              50.126
-            ]
-          ]
-        ]
-      }
-    }
-  ]
-}
 ```
 
 <p align="center"><em>Thank you for visiting my profile — the projects are listed below🔻</em></p>
