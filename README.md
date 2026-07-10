@@ -123,10 +123,6 @@ INI           11 mins               ░░░░░░░░░░░░░░�
 </div>
 
 <div align="center">
-<a href="https://github.com/alexfrxx/github-readme-activity-graph#highcontrast">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexfrxx&bg_color=00000f&color=ffffff&line=FF0077&point=00ffff&area=true&area_color=053300&hide_border=true" width="100%">
-</a>
-  
 ![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 </div>
 
@@ -134,16 +130,5 @@ INI           11 mins               ░░░░░░░░░░░░░░�
   
 ![snake gif](https://github.com/alexfrxx/alexfrxx/blob/output/github-snake-dark.svg)
 </div>
-
-## 📁 Project Structure
-
-```
-.
-├── .github/             # GitHub Actions workflows & configs
-├── images/              # Assets, banners, and graphics
-├── profile-3d-contrib/  # 3D contribution visualizations
-├── package.json         # Project metadata & dependencies
-└── README.md            # This file
-```
 
 <p align="center"><em>Thank you for visiting my profile — the projects are listed below🔻</em></p>
