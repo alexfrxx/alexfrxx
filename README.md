@@ -1,6 +1,4 @@
 <a href="https://www.linkedin.com/in/AleksandrFrolov2809"><img width="1584" height="396" alt="github banner" src="https://github.com/user-attachments/assets/7cc89d28-3653-4998-ac7f-abab0247ded4" />
-
-
 </a>
 
 # Hey there! I'm Alex
@@ -89,6 +87,11 @@ In an era where AI writes code, it's important to think not only about how softw
 
 ---
 
+<div align="center">
+   
+![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+</div>
+
 ## ⏳ Time Invested in Coding
 
 <!--START_SECTION:waka-->
@@ -120,11 +123,6 @@ INI           11 mins               ░░░░░░░░░░░░░░�
     src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexfrxx&theme=highcontrast"
     width="39%"
   />
-</div>
-
-<div align="center">
-   
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 </div>
 
 <div align="center">
