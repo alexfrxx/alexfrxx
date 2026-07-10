@@ -88,6 +88,23 @@ In an era where AI writes code, it's important to think not only about how softw
 ---
 
 <div align="center">
+  
+![snake gif](https://github.com/alexfrxx/alexfrxx/blob/output/github-snake-dark.svg)
+</div>
+
+## 📈 Github Stats & Activity Graph
+
+<div align="center">
+ <img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexfrxx&show_icons=true&bg_color=000000&title_color=FFE600&icon_color=FF0077&text_color=ffffff&hide_border=true" width="58%"
+ />
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexfrxx&theme=highcontrast"
+    width="39%"
+  />
+</div>
+
+<div align="center">
    
 ![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 </div>
@@ -112,22 +129,5 @@ INI           11 mins               ░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-## 📈 Github Stats & Activity Graph
-
-<div align="center">
- <img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexfrxx&show_icons=true&bg_color=000000&title_color=FFE600&icon_color=FF0077&text_color=ffffff&hide_border=true" width="58%"
- />
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexfrxx&theme=highcontrast"
-    width="39%"
-  />
-</div>
-
-<div align="center">
-  
-![snake gif](https://github.com/alexfrxx/alexfrxx/blob/output/github-snake-dark.svg)
-</div>
 
 <p align="center"><em>Thank you for visiting my profile — the projects are listed below🔻</em></p>
