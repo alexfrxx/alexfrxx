@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/AleksandrFrolov2809"><img width="1584" height="396" alt="github banner" src="https://github.com/user-attachments/assets/7cc89d28-3653-4998-ac7f-abab0247ded4" />
+<a href="https://www.linkedin.com/in/AleksandrFrolov2809"><img width="4752" height="1188" alt="tem" src="https://github.com/user-attachments/assets/c4bf8642-1dab-42ea-b375-1c6e27be9627" />
 </a>
 
 # Hey there! I'm Alex
