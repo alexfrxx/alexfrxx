@@ -24,9 +24,7 @@ In an era where AI writes code, it's important to think not only about how softw
 <p align="center">
   <a href="https://www.linkedin.com/in/AleksandrFrolov2809/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Aleksandr Frolov"></a>
 <a href="mailto:fr.280907@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: fr.280907@gmail.com"/></a>
-  <a href="https://wa.me/48511206751">
-  <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
+<a href="https://wa.me/48511206751"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 <a href="https://t.me/alexFrxx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: @alexFrxx"></a>
   <a href="https://alexfrxx.vercel.app"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Website: https://alexfrxx.github.io/MyCV/"></a>
 </p>
