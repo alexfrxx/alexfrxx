@@ -45,6 +45,7 @@ In an era where AI writes code, it's important to think not only about how softw
 
 ### UI Libraries & Styling
 
+![CSS Modules](https://img.shields.io/badge/CSS%20Modules-%23000000.svg?style=for-the-badge&logo=cssmodules&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
 ![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
