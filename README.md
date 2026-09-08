@@ -99,14 +99,12 @@ In an era where AI writes code, it's important to think not only about how softw
 
 ## 📈 Github Stats & Activity Graph
 
-<div align="center">
+<!-- <div align="center">
   <img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexfrxx&theme=highcontrast"
     width="100%"
   />
-</div>
-
-<div align="center">
+</div> -->
    
 ![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 </div>
