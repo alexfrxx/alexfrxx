@@ -5,15 +5,7 @@
 
 ### 💻 Frontend Developer | UI & UX Enthusiast
 
-Frontend Developer specializing in building modern web applications with React. Experienced in collaborating
-within agile teams alongside designers and product managers. Contributed to the development of new
-features, bug fixing, application maintenance, and performance optimization. Passionate about writing clean,
-maintainable code, improving user experience, and continuously expanding technical expertise.
-
-Confident in building responsive and scalable user interfaces, applying component-based architecture, and
-integrating frontend solutions with backend APIs. Experienced in using modern development tools and workflows,
-including Git, task management systems, and code review processes. Able to quickly understand existing
-codebases, identify areas for improvement, and implement effective solutions.
+Frontend Developer specializing in building responsive web applications with React and TypeScript. Experienced in developing reusable UI components, implementing new features, and maintaining existing codebases while collaborating with a team lead. Focused on writing clean, maintainable code and creating accessible, user-friendly interfaces.
 
 In an era where AI writes code, it's important to think not only about how software works, but also about how people interact with it. I focus on creating intuitive user experiences while keeping business metrics and product goals in mind.
 
